@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5f4cc22-61d1-4c54-90b6-48eb79623d5f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j0itAWwJLbjpdaqUy2bBANhT9c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\DataStructure-Algorithms\RedBlackTree\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DataStructure-Algorithms\RedBlackTree\src" />
+      <recent name="E:\DataStructure-Algorithms\RedBlackTree" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="RedBlackTree" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="RedBlackTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main3" />
+      <module name="RedBlackTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RBTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RBTree" />
+      <module name="RedBlackTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="RedBlackTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.RBTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5f4cc22-61d1-4c54-90b6-48eb79623d5f" name="Default Changelist" comment="" />
+      <created>1602947621415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602947621415</updated>
+      <workItem from="1602947625316" duration="3391000" />
+      <workItem from="1603136712159" duration="4444000" />
+      <workItem from="1603292713563" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="904" height="250" key="GridCell.Tab.0.bottom" timestamp="1603140710220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="904" height="250" key="GridCell.Tab.0.bottom/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603140710220" />
+    <state width="904" height="250" key="GridCell.Tab.0.center" timestamp="1603140710219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="904" height="250" key="GridCell.Tab.0.center/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603140710219" />
+    <state width="904" height="250" key="GridCell.Tab.0.left" timestamp="1603140710219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="904" height="250" key="GridCell.Tab.0.left/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603140710219" />
+    <state width="904" height="250" key="GridCell.Tab.0.right" timestamp="1603140710220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="904" height="250" key="GridCell.Tab.0.right/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603140710219" />
+    <state x="104" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1603292713497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="104" y="303" key="com.intellij.ide.util.TipDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603292713496" />
+    <state x="0" y="54" key="new project wizard" timestamp="1603292741828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="54" key="new project wizard/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603292741828" />
+    <state x="66" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1603139369523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="66" y="5" width="840" height="1034" key="search.everywhere.popup/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603139369523" />
+  </component>
+</project>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a55ba3a-3e38-46b3-bba4-bcaaad983fff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jC0PaIVxZyOwf45psltsx1Cc12" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DataStructure-Algorithms\HashTable\src" />
+      <recent name="E:\DataStructure-Algorithms\HashTable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HashTable" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1" />
+      <module name="HashTable" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a55ba3a-3e38-46b3-bba4-bcaaad983fff" name="Default Changelist" comment="" />
+      <created>1603292742262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603292742262</updated>
+      <workItem from="1603292746336" duration="6452000" />
+      <workItem from="1603396973510" duration="5168000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603392124128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603392124128" />
+    <state x="248" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1603315838880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="248" y="169" key="#com.intellij.ide.util.MemberChooser/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603315838880" />
+    <state width="898" height="253" key="GridCell.Tab.0.bottom" timestamp="1603466968006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="898" height="253" key="GridCell.Tab.0.bottom/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603466968006" />
+    <state width="898" height="253" key="GridCell.Tab.0.center" timestamp="1603466968006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="898" height="253" key="GridCell.Tab.0.center/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603466968006" />
+    <state width="898" height="253" key="GridCell.Tab.0.left" timestamp="1603466968006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="898" height="253" key="GridCell.Tab.0.left/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603466968006" />
+    <state width="898" height="253" key="GridCell.Tab.0.right" timestamp="1603466968006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="898" height="253" key="GridCell.Tab.0.right/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603466968006" />
+    <state x="104" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1603396975217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="104" y="303" key="com.intellij.ide.util.TipDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603396975217" />
+    <state x="66" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1603466967807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="66" y="5" width="840" height="1034" key="search.everywhere.popup/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603466967807" />
+  </component>
+</project>

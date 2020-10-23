@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="255b93e8-5cfb-4544-a7cd-6f994635e185" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ivVYVdTOzM6MRvQcwUtJanWUiK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DataStructure-Algorithms\AVLTree\src" />
+      <recent name="E:\DataStructure-Algorithms\AVLTree\src\leetcode" />
+      <recent name="E:\DataStructure-Algorithms\AVLTree" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestMapMain">
+    <configuration name="AVLTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AVLTree" />
+      <module name="AVLTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AVLTree" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestMapMain" />
+      <module name="AVLTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSetMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestSetMain" />
+      <module name="AVLTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.AVLTree" />
+      <item itemvalue="Application.TestMapMain" />
+      <item itemvalue="Application.TestSetMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestMapMain" />
+        <item itemvalue="Application.TestSetMain" />
+        <item itemvalue="Application.AVLTree" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="255b93e8-5cfb-4544-a7cd-6f994635e185" name="Default Changelist" comment="" />
+      <created>1602788099408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602788099408</updated>
+      <workItem from="1602788106258" duration="11392000" />
+      <workItem from="1602947587004" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="248" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1602871400568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="248" y="162" key="#com.intellij.ide.util.MemberChooser/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1602871400568" />
+    <state width="898" height="230" key="GridCell.Tab.0.bottom" timestamp="1602871518894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="898" height="230" key="GridCell.Tab.0.bottom/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1602871518894" />
+    <state width="898" height="230" key="GridCell.Tab.0.center" timestamp="1602871518894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="898" height="230" key="GridCell.Tab.0.center/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1602871518894" />
+    <state width="898" height="230" key="GridCell.Tab.0.left" timestamp="1602871518894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="898" height="230" key="GridCell.Tab.0.left/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1602871518894" />
+    <state width="898" height="230" key="GridCell.Tab.0.right" timestamp="1602871518894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="898" height="230" key="GridCell.Tab.0.right/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1602871518894" />
+    <state x="104" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1602947586032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="104" y="303" key="com.intellij.ide.util.TipDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1602947586032" />
+    <state x="106" y="108" key="new project wizard" timestamp="1602947621044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="106" y="108" key="new project wizard/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1602947621044" />
+    <state x="66" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1602866200693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="66" y="5" width="840" height="1034" key="search.everywhere.popup/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1602866200693" />
+  </component>
+</project>

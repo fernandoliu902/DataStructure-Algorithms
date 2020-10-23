@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84a5ed9e-9c4c-4c64-9046-85a11985b034" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gKO7xEszoeIQbfG1tcbzWuoXxg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StacksAndQueues/src/queue/loopqueue" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DataStructure-Algorithms\StacksAndQueues\src\queue\loopqueue" />
+      <recent name="E:\DataStructure-Algorithms\StacksAndQueues\src\queue\arrayqueue" />
+      <recent name="E:\DataStructure-Algorithms\Array\src\array\dynamicarray" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="array.dynamicarray" />
+      <recent name="array.ownarray.generic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\DataStructure-Algorithms\StacksAndQueues\src\stack\ArrayStack" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.arrayqueue.ArrayQueue" />
+      <module name="StacksAndQueues" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.arrayqueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.loopqueue.LoopQueue" />
+      <module name="StacksAndQueues" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.loopqueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.arraystack.Main" />
+      <module name="StacksAndQueues" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.arraystack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.loopqueue.Main" />
+      <module name="StacksAndQueues" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.loopqueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.leetcode.ValidParentheses" />
+      <module name="StacksAndQueues" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LoopQueue" />
+        <item itemvalue="Application.ArrayQueue" />
+        <item itemvalue="Application.ValidParentheses" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84a5ed9e-9c4c-4c64-9046-85a11985b034" name="Default Changelist" comment="" />
+      <created>1597859653750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597859653750</updated>
+      <workItem from="1597859656880" duration="13142000" />
+      <workItem from="1598018438125" duration="8209000" />
+      <workItem from="1598125152691" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="196" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1598030526528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="196" y="150" key="#com.intellij.ide.util.MemberChooser/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1598030526528" />
+    <state width="928" height="187" key="GridCell.Tab.0.bottom" timestamp="1598069862244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="928" height="187" key="GridCell.Tab.0.bottom/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1598069862244" />
+    <state width="928" height="187" key="GridCell.Tab.0.center" timestamp="1598069862243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="928" height="187" key="GridCell.Tab.0.center/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1598069862243" />
+    <state width="928" height="187" key="GridCell.Tab.0.left" timestamp="1598069862243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="928" height="187" key="GridCell.Tab.0.left/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1598069862243" />
+    <state width="928" height="187" key="GridCell.Tab.0.right" timestamp="1598069862244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="928" height="187" key="GridCell.Tab.0.right/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1598069862244" />
+    <state x="577" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1598125152839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="577" y="303" key="com.intellij.ide.util.TipDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1598125152839" />
+    <state x="0" y="108" key="new project wizard" timestamp="1598125181357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="108" key="new project wizard/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1598125181357" />
+    <state x="146" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1598019195402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="146" y="5" width="840" height="1034" key="search.everywhere.popup/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1598019195402" />
+  </component>
+</project>

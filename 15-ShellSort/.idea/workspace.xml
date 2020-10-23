@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d81cb672-30ec-4d3c-b8fa-30dd49b4eb27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iTOLVRAFYr3TuUVKlKbgZy56B3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DataStructure-Algorithms\ShellSort\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ShellSort">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ShellSort" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShellSort" />
+      <module name="ShellSort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ShellSort" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShellSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d81cb672-30ec-4d3c-b8fa-30dd49b4eb27" name="Default Changelist" comment="" />
+      <created>1601928059333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601928059333</updated>
+      <workItem from="1601928062876" duration="3906000" />
+      <workItem from="1602093743178" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="918" height="266" key="GridCell.Tab.0.bottom" timestamp="1601955600601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="918" height="266" key="GridCell.Tab.0.bottom/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1601955600601" />
+    <state width="918" height="266" key="GridCell.Tab.0.center" timestamp="1601955600600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="918" height="266" key="GridCell.Tab.0.center/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1601955600600" />
+    <state width="918" height="266" key="GridCell.Tab.0.left" timestamp="1601955600600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="918" height="266" key="GridCell.Tab.0.left/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1601955600600" />
+    <state width="918" height="266" key="GridCell.Tab.0.right" timestamp="1601955600601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="918" height="266" key="GridCell.Tab.0.right/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1601955600601" />
+    <state x="111" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1602093741970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="111" y="303" key="com.intellij.ide.util.TipDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1602093741970" />
+    <state x="0" y="54" key="new project wizard" timestamp="1602093781541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="54" key="new project wizard/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1602093781541" />
+  </component>
+</project>
