@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="255b93e8-5cfb-4544-a7cd-6f994635e185" name="Default Changelist" comment="" />
+    <list default="true" id="255b93e8-5cfb-4544-a7cd-6f994635e185" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../01-LinearSearch/src/CustomClass/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-LinearSearch/src/CustomClass/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-SelectionSort/src/customClass/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-SelectionSort/src/customClass/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08-MergeSort/src/MergeSortComplexity/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../08-MergeSort/src/MergeSortComplexity/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09-MoreMergeSort/src/AdvancedOptimization/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09-MoreMergeSort/src/AdvancedOptimization/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09-MoreMergeSort/src/BottomUpOptimizedbyInsertionSort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09-MoreMergeSort/src/BottomUpOptimizedbyInsertionSort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09-MoreMergeSort/src/MergeSortBottomUp/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09-MoreMergeSort/src/MergeSortBottomUp/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09-MoreMergeSort/src/OptimizedbyInsertionSort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09-MoreMergeSort/src/OptimizedbyInsertionSort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10-QuickSort/src/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../10-QuickSort/src/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10-QuickSort/src/QuickSort2Ways/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../10-QuickSort/src/QuickSort2Ways/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10-QuickSort/src/QuickSort3Ways/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../10-QuickSort/src/QuickSort3Ways/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10-QuickSort/src/QuickSortOptimizedbyRandom/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../10-QuickSort/src/QuickSortOptimizedbyRandom/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-BinarySearchTree/src/NonRecursionBST/LeetCode144.java" beforeDir="false" afterPath="$PROJECT_DIR$/../12-BinarySearchTree/src/NonRecursionBST/LeetCode144.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-BinarySearchTree/src/set/FileOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../12-BinarySearchTree/src/set/FileOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13-HeapAndPriorityQueue/src/heap/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../13-HeapAndPriorityQueue/src/heap/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13-HeapAndPriorityQueue/src/heap/MinHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../13-HeapAndPriorityQueue/src/heap/MinHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14-BubbleSort/src/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../14-BubbleSort/src/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15-ShellSort/src/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../15-ShellSort/src/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18-UnionFind/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../18-UnionFind/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18-UnionFind/out/production/UnionFind/UnionFind5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../18-UnionFind/out/production/UnionFind/UnionFind5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20-RedBlackTree/src/RBTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20-RedBlackTree/src/RBTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-HashTable/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../21-HashTable/src/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +38,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ivVYVdTOzM6MRvQcwUtJanWUiK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../12-BinarySearchTree" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -92,6 +120,7 @@
       <updated>1602788099408</updated>
       <workItem from="1602788106258" duration="11392000" />
       <workItem from="1602947587004" duration="37000" />
+      <workItem from="1603657088798" duration="64000" />
     </task>
     <servers />
   </component>
@@ -103,6 +132,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="248" y="162" key="#com.intellij.ide.util.MemberChooser/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1602871400568" />
+    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1603657150805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="218" key="FileChooserDialogImpl/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1603657150805" />
     <state width="898" height="230" key="GridCell.Tab.0.bottom" timestamp="1602871518894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

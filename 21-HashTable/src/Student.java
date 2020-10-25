@@ -1,5 +1,3 @@
-import java.util.Objects;
-
 public class Student {
     int grade;
     int cls;

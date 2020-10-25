@@ -1,7 +1,5 @@
 package customClass;
 
-import generic.SelectGenerics;
-
 public class Test {
     public static <E extends Comparable<E>> void sort(E[] arr){
 

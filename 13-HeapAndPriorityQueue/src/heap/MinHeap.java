@@ -1,7 +1,5 @@
 package heap;
 
-import java.util.*;
-
 public class MinHeap<E extends Comparable<E>> {
 
     private Array<E> data;

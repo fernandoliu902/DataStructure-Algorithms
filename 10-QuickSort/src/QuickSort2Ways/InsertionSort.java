@@ -1,7 +1,5 @@
 package QuickSort2Ways;
 
-import java.util.Arrays;
-
 public class InsertionSort {
 
     private InsertionSort(){}

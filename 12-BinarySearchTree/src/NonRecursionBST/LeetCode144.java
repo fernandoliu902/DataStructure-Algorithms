@@ -6,8 +6,8 @@ package NonRecursionBST;
 /// 该代码主要用于使用Leetcode上的问题测试我们的BST类
 /// 该测试主要测试前序遍历的非递归写法
 
-import java.util.List;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Stack;
 public class LeetCode144 {
     // Definition for a binary tree node.

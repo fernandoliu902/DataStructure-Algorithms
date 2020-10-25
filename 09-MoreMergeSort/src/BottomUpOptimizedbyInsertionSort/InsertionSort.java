@@ -1,7 +1,5 @@
 package BottomUpOptimizedbyInsertionSort;
 
-import java.util.Arrays;
-
 public class InsertionSort {
 
     private InsertionSort(){}
